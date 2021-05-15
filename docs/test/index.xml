@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://kinyanishimura.github.io/hugobook.github.io/docs/test/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://kinyanishimura.github.io/hugobook.github.io/docs/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://kinyanishimura.github.io/hugobook.github.io/docs/test/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinyanishimura.github.io/hugobook.github.io/docs/test/test/</guid>
+      <description>Test $l_{x+2} = l_x$
+$$ l_0 = l_1 $$
+$$ l_{0} = 1,\ l_{x+1} = s_{x}l_{x} $$
+$$ T_{1} = \sum _{ x=0 }{ x, p_x } = \frac { \sum _{ x=0 }\limits{ x\hspace{0.8mm} l_{ x }b_x } }{ \sum _{ x=0 }\limits{ l_{ x }b_x } }\tag{5} $$
+$\alpha \beta$はアルファベータ $$ E_{age} = \sum _{ x=0 }{ x, p_x }= \frac { \sum _{ x=0 }\limits{ x\hspace{0.8mm} l_{ x }{\lambda}^{-x} } }{ \sum _{ x=0 }\limits{ l_{ x }{\lambda}^{-x} } }\tag{10} $$</description>
+    </item>
+    
+  </channel>
+</rss>
